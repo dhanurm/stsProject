@@ -22,6 +22,8 @@ public class Exampl2 {
 		map.put("xyz", 2);
 		map.put(8, "Dhanu");
 		
+		System.out.println("hello ...");
+		
 		
 //		int[] arr= new int[5];
 //		System.out.println(arr.length);
