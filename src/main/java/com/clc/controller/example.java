@@ -12,7 +12,7 @@ public class example {
 		String s3 = s1 + "nsfsf";
 		final String s5=s1+"nsfsf";
 		
-		
+		System.out.println("dgjgsd");
 //		
 //		System.out.println(s2 == s3);
 //		System.out.println(s2 == s5);
