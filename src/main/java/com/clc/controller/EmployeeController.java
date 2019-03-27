@@ -15,6 +15,8 @@ public class EmployeeController {
 
 	@Autowired
 	EmployeeService service;
+	
+	
 
 	@RequestMapping(value = "/emps/", method = RequestMethod.GET)
 	public String listOfEmployee(Model model) {
